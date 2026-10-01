@@ -1,0 +1,6 @@
+.env
+.gamepm/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+workspace/
